@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 #xml generated file
-feed.xml
+.xml
